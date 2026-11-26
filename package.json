@@ -1,0 +1,1 @@
+{"description":"Funniest Cat Voicemail Greeting — make.fun entry","engines":{"node":">=22"},"license":"MIT","name":"funniest-cat-voicemail-20261126","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
